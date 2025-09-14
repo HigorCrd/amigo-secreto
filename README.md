@@ -28,5 +28,6 @@ Um projeto simples e interativo em **JavaScript**, ideal para dinâmicas de grup
 
 ---
 
-📄 Licença
+## 📄 Licença
+
 Este projeto é livre para uso pessoal ou educacional.

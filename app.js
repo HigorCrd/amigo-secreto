@@ -28,8 +28,6 @@ function atualizarLista(){
     }
 }
 
-sortearAmigo();
-
 function sortearAmigo(){
     if(amigos.length === 0){
         alert('Não há amigos disponíveis para sortear');
